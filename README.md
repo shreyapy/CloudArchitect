@@ -1,2 +1,2 @@
 # CloudArchitect
-This Repo will be used for Cloud Architect Prep
+This Repo will be used for Cloud Architect Preparation.
